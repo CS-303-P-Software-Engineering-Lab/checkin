@@ -10,13 +10,12 @@ This will be the first ungraded task of your CS 303(P) Lab. In this task you wou
 # Step 2: Commit changes
 - Find the file name corresponding to your roll number in the repository.
 - Change the name `torvalds` to your Github username. Make sure you do not put @ or any symbols that occur before it
-- Commit the file
+- Commit the file.
 
 # Step 3: Send a Pull Request
-- 
-
-
-
+- Come back to the forked repo's dashboard
+- You will find a `Contribute` button. Click on Open Pull Request
+- Click on Pull Request and add comments if you like to.
 
 
 
